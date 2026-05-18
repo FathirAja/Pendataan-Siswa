@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pendataan Siswa</string>
+
+    <string-array name="jenis_kelamin_array">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
