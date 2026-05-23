@@ -15,7 +15,7 @@ Kelola data siswa dengan mudah — tambah, edit, hapus, dan lihat data tersimpan
 
 ## ⬇️ Download Aplikasi
 
-<a href="https://drive.google.com/your-link-here">
+<a href="[https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1O4dwLgIcVEQU5gwuG1Jxk8Cp-2NLSeMx?usp=drive_link)">
   <img src="https://img.shields.io/badge/⬇️%20Download%20APK-5B6FD4?style=for-the-badge&logoColor=white" alt="Download APK"/>
 </a>
 
