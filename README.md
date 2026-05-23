@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Pendataan Siswa
+# Pendataan Siswa
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -13,7 +13,7 @@ Kelola data siswa dengan mudah — tambah, edit, hapus, dan lihat data tersimpan
 
 ---
 
-## ⬇️ Download Aplikasi
+## Download Aplikasi
 
 <a href="https://drive.google.com/drive/folders/1O4dwLgIcVEQU5gwuG1Jxk8Cp-2NLSeMx?usp=sharing">
   <img src="https://img.shields.io/badge/⬇️%20Download%20APK-5B6FD4?style=for-the-badge&logoColor=white" alt="Download APK"/>
@@ -21,7 +21,7 @@ Kelola data siswa dengan mudah — tambah, edit, hapus, dan lihat data tersimpan
 
 </div>
 
-## 📱 Tampilan Aplikasi
+## Tampilan Aplikasi
 
 | Splash Screen | Menu Utama | Tambah Data | Lihat Data |
 |:---:|:---:|:---:|:---:|
@@ -31,17 +31,17 @@ Kelola data siswa dengan mudah — tambah, edit, hapus, dan lihat data tersimpan
 
 ## ✨ Fitur Aplikasi
 
-- 🔵 **Splash Screen** — Animasi pembuka otomatis 2.5 detik
-- 🏠 **Menu Utama** — Navigasi ke Lihat Data & Tambah Data
-- ➕ **Tambah Data** — Form input siswa baru dengan validasi
-- 📋 **Lihat Data** — Daftar semua siswa menggunakan RecyclerView
-- ✏️ **Edit Data** — Klik tombol Edit, form terisi otomatis
-- 🗑️ **Hapus Data** — Dialog konfirmasi sebelum menghapus
-- 💾 **SQLite** — Data tersimpan permanen di perangkat tanpa internet
+-  **Splash Screen** — Animasi pembuka otomatis 2.5 detik
+-  **Menu Utama** — Navigasi ke Lihat Data & Tambah Data
+-  **Tambah Data** — Form input siswa baru dengan validasi
+-  **Lihat Data** — Daftar semua siswa menggunakan RecyclerView
+-  **Edit Data** — Klik tombol Edit, form terisi otomatis
+-  **Hapus Data** — Dialog konfirmasi sebelum menghapus
+-  **SQLite** — Data tersimpan permanen di perangkat tanpa internet
 
 ---
 
-## 🗄️ Struktur Database
+## Struktur Database
 
 **Nama Database:** `pendataan_siswa.db` &nbsp;|&nbsp; **Tabel:** `siswa`
 
@@ -56,12 +56,12 @@ Kelola data siswa dengan mudah — tambah, edit, hapus, dan lihat data tersimpan
 
 ---
 
-## 🚀 Cara Menjalankan Project
+## Cara Menjalankan Project
 
 ### Prasyarat
-- ✅ Android Studio **Hedgehog** atau lebih baru
-- ✅ JDK 8+
-- ✅ Android SDK minimum **API 21 (Android 5.0 Lollipop)**
+-  Android Studio **Hedgehog** atau lebih baru
+-  JDK 8+
+-  Android SDK minimum **API 21 (Android 5.0 Lollipop)**
 
 ### 1. Clone Repository
 ```bash
@@ -118,7 +118,7 @@ PendataanSiswa/
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Teknologi | Versi | Keterangan |
 |-----------|-------|------------|
