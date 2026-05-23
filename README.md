@@ -29,7 +29,7 @@ Kelola data siswa dengan mudah — tambah, edit, hapus, dan lihat data tersimpan
 
 ---
 
-## ✨ Fitur Aplikasi
+## Fitur Aplikasi
 
 -  **Splash Screen** — Animasi pembuka otomatis 2.5 detik
 -  **Menu Utama** — Navigasi ke Lihat Data & Tambah Data
