@@ -27,8 +27,6 @@ Kelola data siswa dengan mudah — tambah, edit, hapus, dan lihat data tersimpan
 |:---:|:---:|:---:|:---:|
 | ![Splash](screenshots/splash.png) | ![Menu](screenshots/menu.png) | ![Form](screenshots/form.png) | ![List](screenshots/list.png) |
 
-> 💡 Buat folder `screenshots/` di root project dan tambahkan screenshot aplikasi kamu.
-
 ---
 
 ## ✨ Fitur Aplikasi
@@ -67,10 +65,9 @@ Kelola data siswa dengan mudah — tambah, edit, hapus, dan lihat data tersimpan
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/PendataanSiswa.git
+git clone https://github.com/FathirAja/Pendataan-Siswa.git
 cd PendataanSiswa
 ```
-> Ganti `username` dengan username GitHub kamu
 
 ### 2. Buka di Android Studio
 ```
@@ -78,35 +75,13 @@ cd PendataanSiswa
 2. Pilih File → Open
 3. Arahkan ke folder hasil clone
 4. Tunggu Gradle Sync selesai
-5. Klik Run ▶️ atau tekan Shift + F10
+5. Klik Run atau tekan Shift + F10
 ```
 
 ### 3. Jalankan di Emulator / HP
 - **Emulator:** Buat AVD di Device Manager, pilih API 21+
 - **HP langsung:** Aktifkan Developer Options + USB Debugging, lalu colok ke PC
-
----
-
-## 📦 Cara Build & Upload APK
-
-### Build APK
-```
-Android Studio → Build → Build Bundle(s) / APK(s) → Build APK(s)
-```
-File APK tersimpan di:
-```
-app/build/outputs/apk/debug/app-debug.apk
-```
-
-### Upload ke Google Drive
-```
-1. Buka drive.google.com
-2. Klik + New → File upload
-3. Pilih file app-debug.apk
-4. Klik kanan file → Share → Anyone with the link
-5. Salin link → tempel di bagian Download di README ini
-```
-
+- 
 ---
 
 ## 📁 Struktur Project
@@ -155,29 +130,10 @@ PendataanSiswa/
 
 ---
 
-## ⚠️ Catatan Penting
-
-- Gunakan theme `Theme.MaterialComponents.Light.DarkActionBar` agar warna header sesuai tema biru
-- Pastikan semua file `bg_*.xml` sudah ada di folder `res/drawable/`
-- `SplashActivity` harus menjadi LAUNCHER di `AndroidManifest.xml`
-- APK debug hanya untuk testing, gunakan **Release APK** untuk distribusi resmi
-
----
-
-## 🤝 Kontribusi
-
-1. Fork repository ini
-2. Buat branch baru: `git checkout -b fitur-baru`
-3. Commit perubahan: `git commit -m 'Tambah fitur baru'`
-4. Push ke branch: `git push origin fitur-baru`
-5. Buat Pull Request
-
----
-
 <div align="center">
 
 Dibuat dengan ❤️ menggunakan **Android Studio** & **Java**
 
-⭐ Jangan lupa beri bintang kalau project ini membantu!
+⭐ JEONGMAL GOMAWOYO
 
 </div>
