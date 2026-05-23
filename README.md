@@ -81,7 +81,7 @@ cd PendataanSiswa
 ### 3. Jalankan di Emulator / HP
 - **Emulator:** Buat AVD di Device Manager, pilih API 21+
 - **HP langsung:** Aktifkan Developer Options + USB Debugging, lalu colok ke PC
-- 
+  
 ---
 
 ## 📁 Struktur Project
