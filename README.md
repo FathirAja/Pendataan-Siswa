@@ -19,14 +19,6 @@ Kelola data siswa dengan mudah — tambah, edit, hapus, dan lihat data tersimpan
   <img src="https://img.shields.io/badge/⬇️%20Download%20APK-5B6FD4?style=for-the-badge&logoColor=white" alt="Download APK"/>
 </a>
 
-> **Cara update link download:**
-> 1. Build APK: **Android Studio → Build → Build APK(s)**
-> 2. Upload file `app-debug.apk` ke Google Drive
-> 3. Share → Anyone with the link → Copy link
-> 4. Ganti `https://drive.google.com/your-link-here` di atas dengan link kamu
-
----
-
 </div>
 
 ## 📱 Tampilan Aplikasi
